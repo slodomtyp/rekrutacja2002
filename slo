@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<title>Klasa 1C</title>
+	
+	<meta name="description" content="Profil sportowy" />
+	<meta name="keywords" content="Slo,Stalowa Wola" />
+
+
+
+<style>
+#tytul{
+background-color: rgb(150,153,165);
+}
+
+
+#tresc{
+color:brown;
+}
+
+#nabor{
+color: green;
+}
+  </style>
+
+
+
+
+	
+</head>
+
+<body>
+
+	<p id="tytul">
+<b>1F</b> - rozszeszenie z geor=grafii, biologii i języka angielskiego</b>
+</p>
+
+<p id= "tresc">
+<b>powinieneś wybrać klasę sportową jeśli:</b>
+<ul id="tresc">
+<li>odnisisz znaczące sukcesy w różnych dyscyplinach sprotowych<li>
+<li>marzysz o rozwijaniu swoich umuejętności sportowych pod okiem doświadczonych trenerów;</li>
+<marzysz o podjęciu studiów na różnych akadeniach wychowania fizycznego;</li>
+<li>przeszedłeś pozytywnie testy sprawnościowe;</li>
+<li>w przyszłości chcesz przystąpić do egzaminu maturalnego z geografii, biologii i języka angielskiego;</li>
+  </ul>
+
+</p>
+<p style="text-algin: centre", id="nabor">
+<u>Nabór odbywa sie poza systemem elektronicznym.</u>
+</p>
+
+</body>
+</html>
